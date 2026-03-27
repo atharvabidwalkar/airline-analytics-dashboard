@@ -16,10 +16,6 @@
 
 ---
 
-![Dashboard Preview](screenshot.png)
-
----
-
 ## 📋 Overview
 
 This project covers the full Power BI development lifecycle — data modelling, transformation, measure writing, and dashboard design — using US airline flight data for the full year 2023.
