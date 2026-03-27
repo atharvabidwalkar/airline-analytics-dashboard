@@ -1,0 +1,481 @@
+fact_delay_key,date_key,airline_key,year,month,month_name,carrier_name,delay_cause,delay_minutes,delayed_flights
+1,202301,1,2023,1,Jan,Alaska Airlines,Carrier,2669,191
+2,202301,2,2023,1,Jan,American Airlines,Carrier,4643,363
+3,202301,3,2023,1,Jan,Delta Air Lines,Carrier,4426,339
+4,202301,4,2023,1,Jan,Frontier Airlines,Carrier,1624,126
+5,202301,5,2023,1,Jan,JetBlue Airways,Carrier,2048,187
+6,202301,6,2023,1,Jan,Southwest Airlines,Carrier,4080,322
+7,202301,7,2023,1,Jan,Spirit Airlines,Carrier,1768,165
+8,202301,8,2023,1,Jan,United Airlines,Carrier,3593,310
+9,202302,1,2023,2,Feb,Alaska Airlines,Carrier,1167,136
+10,202302,2,2023,2,Feb,American Airlines,Carrier,3152,299
+11,202302,3,2023,2,Feb,Delta Air Lines,Carrier,3694,321
+12,202302,4,2023,2,Feb,Frontier Airlines,Carrier,1628,126
+13,202302,5,2023,2,Feb,JetBlue Airways,Carrier,2003,170
+14,202302,6,2023,2,Feb,Southwest Airlines,Carrier,3568,275
+15,202302,7,2023,2,Feb,Spirit Airlines,Carrier,1713,152
+16,202302,8,2023,2,Feb,United Airlines,Carrier,3816,293
+17,202303,1,2023,3,Mar,Alaska Airlines,Carrier,2040,172
+18,202303,2,2023,3,Mar,American Airlines,Carrier,4323,349
+19,202303,3,2023,3,Mar,Delta Air Lines,Carrier,4182,333
+20,202303,4,2023,3,Mar,Frontier Airlines,Carrier,1992,170
+21,202303,5,2023,3,Mar,JetBlue Airways,Carrier,3202,237
+22,202303,6,2023,3,Mar,Southwest Airlines,Carrier,3672,307
+23,202303,7,2023,3,Mar,Spirit Airlines,Carrier,1856,155
+24,202303,8,2023,3,Mar,United Airlines,Carrier,4321,357
+25,202304,1,2023,4,Apr,Alaska Airlines,Carrier,2516,196
+26,202304,2,2023,4,Apr,American Airlines,Carrier,4569,351
+27,202304,3,2023,4,Apr,Delta Air Lines,Carrier,4426,357
+28,202304,4,2023,4,Apr,Frontier Airlines,Carrier,2002,144
+29,202304,5,2023,4,Apr,JetBlue Airways,Carrier,1954,196
+30,202304,6,2023,4,Apr,Southwest Airlines,Carrier,2700,274
+31,202304,7,2023,4,Apr,Spirit Airlines,Carrier,1521,146
+32,202304,8,2023,4,Apr,United Airlines,Carrier,3803,303
+33,202305,1,2023,5,May,Alaska Airlines,Carrier,1800,178
+34,202305,2,2023,5,May,American Airlines,Carrier,3650,344
+35,202305,3,2023,5,May,Delta Air Lines,Carrier,3078,316
+36,202305,4,2023,5,May,Frontier Airlines,Carrier,1867,149
+37,202305,5,2023,5,May,JetBlue Airways,Carrier,2519,190
+38,202305,6,2023,5,May,Southwest Airlines,Carrier,3647,317
+39,202305,7,2023,5,May,Spirit Airlines,Carrier,1656,138
+40,202305,8,2023,5,May,United Airlines,Carrier,2995,307
+41,202306,1,2023,6,Jun,Alaska Airlines,Carrier,1346,157
+42,202306,2,2023,6,Jun,American Airlines,Carrier,4439,344
+43,202306,3,2023,6,Jun,Delta Air Lines,Carrier,3819,334
+44,202306,4,2023,6,Jun,Frontier Airlines,Carrier,1749,136
+45,202306,5,2023,6,Jun,JetBlue Airways,Carrier,2078,189
+46,202306,6,2023,6,Jun,Southwest Airlines,Carrier,2929,299
+47,202306,7,2023,6,Jun,Spirit Airlines,Carrier,2203,162
+48,202306,8,2023,6,Jun,United Airlines,Carrier,4060,334
+49,202307,1,2023,7,Jul,Alaska Airlines,Carrier,1756,147
+50,202307,2,2023,7,Jul,American Airlines,Carrier,4234,321
+51,202307,3,2023,7,Jul,Delta Air Lines,Carrier,3788,326
+52,202307,4,2023,7,Jul,Frontier Airlines,Carrier,1877,146
+53,202307,5,2023,7,Jul,JetBlue Airways,Carrier,2988,203
+54,202307,6,2023,7,Jul,Southwest Airlines,Carrier,3447,300
+55,202307,7,2023,7,Jul,Spirit Airlines,Carrier,1719,159
+56,202307,8,2023,7,Jul,United Airlines,Carrier,3972,358
+57,202308,1,2023,8,Aug,Alaska Airlines,Carrier,2465,185
+58,202308,2,2023,8,Aug,American Airlines,Carrier,4214,345
+59,202308,3,2023,8,Aug,Delta Air Lines,Carrier,4245,327
+60,202308,4,2023,8,Aug,Frontier Airlines,Carrier,2390,154
+61,202308,5,2023,8,Aug,JetBlue Airways,Carrier,2389,200
+62,202308,6,2023,8,Aug,Southwest Airlines,Carrier,2923,300
+63,202308,7,2023,8,Aug,Spirit Airlines,Carrier,2308,171
+64,202308,8,2023,8,Aug,United Airlines,Carrier,4028,313
+65,202309,1,2023,9,Sep,Alaska Airlines,Carrier,1925,160
+66,202309,2,2023,9,Sep,American Airlines,Carrier,3698,346
+67,202309,3,2023,9,Sep,Delta Air Lines,Carrier,3917,325
+68,202309,4,2023,9,Sep,Frontier Airlines,Carrier,1795,141
+69,202309,5,2023,9,Sep,JetBlue Airways,Carrier,2228,196
+70,202309,6,2023,9,Sep,Southwest Airlines,Carrier,3278,288
+71,202309,7,2023,9,Sep,Spirit Airlines,Carrier,1588,160
+72,202309,8,2023,9,Sep,United Airlines,Carrier,3791,325
+73,202310,1,2023,10,Oct,Alaska Airlines,Carrier,2508,195
+74,202310,2,2023,10,Oct,American Airlines,Carrier,4325,359
+75,202310,3,2023,10,Oct,Delta Air Lines,Carrier,4488,366
+76,202310,4,2023,10,Oct,Frontier Airlines,Carrier,1249,104
+77,202310,5,2023,10,Oct,JetBlue Airways,Carrier,2429,211
+78,202310,6,2023,10,Oct,Southwest Airlines,Carrier,3306,290
+79,202310,7,2023,10,Oct,Spirit Airlines,Carrier,2174,162
+80,202310,8,2023,10,Oct,United Airlines,Carrier,2760,297
+81,202311,1,2023,11,Nov,Alaska Airlines,Carrier,2207,176
+82,202311,2,2023,11,Nov,American Airlines,Carrier,3999,371
+83,202311,3,2023,11,Nov,Delta Air Lines,Carrier,3912,323
+84,202311,4,2023,11,Nov,Frontier Airlines,Carrier,1206,144
+85,202311,5,2023,11,Nov,JetBlue Airways,Carrier,2083,185
+86,202311,6,2023,11,Nov,Southwest Airlines,Carrier,3305,280
+87,202311,7,2023,11,Nov,Spirit Airlines,Carrier,1787,152
+88,202311,8,2023,11,Nov,United Airlines,Carrier,3487,318
+89,202312,1,2023,12,Dec,Alaska Airlines,Carrier,1914,170
+90,202312,2,2023,12,Dec,American Airlines,Carrier,4179,358
+91,202312,3,2023,12,Dec,Delta Air Lines,Carrier,4178,374
+92,202312,4,2023,12,Dec,Frontier Airlines,Carrier,1703,152
+93,202312,5,2023,12,Dec,JetBlue Airways,Carrier,2304,198
+94,202312,6,2023,12,Dec,Southwest Airlines,Carrier,3451,258
+95,202312,7,2023,12,Dec,Spirit Airlines,Carrier,2280,190
+96,202312,8,2023,12,Dec,United Airlines,Carrier,3764,322
+97,202301,1,2023,1,Jan,Alaska Airlines,Weather,1128,191
+98,202301,2,2023,1,Jan,American Airlines,Weather,2788,363
+99,202301,3,2023,1,Jan,Delta Air Lines,Weather,2739,339
+100,202301,4,2023,1,Jan,Frontier Airlines,Weather,712,126
+101,202301,5,2023,1,Jan,JetBlue Airways,Weather,1510,187
+102,202301,6,2023,1,Jan,Southwest Airlines,Weather,2346,322
+103,202301,7,2023,1,Jan,Spirit Airlines,Weather,1622,165
+104,202301,8,2023,1,Jan,United Airlines,Weather,2476,310
+105,202302,1,2023,2,Feb,Alaska Airlines,Weather,1615,136
+106,202302,2,2023,2,Feb,American Airlines,Weather,2460,299
+107,202302,3,2023,2,Feb,Delta Air Lines,Weather,2877,321
+108,202302,4,2023,2,Feb,Frontier Airlines,Weather,1330,126
+109,202302,5,2023,2,Feb,JetBlue Airways,Weather,1288,170
+110,202302,6,2023,2,Feb,Southwest Airlines,Weather,2601,275
+111,202302,7,2023,2,Feb,Spirit Airlines,Weather,1264,152
+112,202302,8,2023,2,Feb,United Airlines,Weather,2732,293
+113,202303,1,2023,3,Mar,Alaska Airlines,Weather,1623,172
+114,202303,2,2023,3,Mar,American Airlines,Weather,2628,349
+115,202303,3,2023,3,Mar,Delta Air Lines,Weather,3010,333
+116,202303,4,2023,3,Mar,Frontier Airlines,Weather,1631,170
+117,202303,5,2023,3,Mar,JetBlue Airways,Weather,2269,237
+118,202303,6,2023,3,Mar,Southwest Airlines,Weather,3243,307
+119,202303,7,2023,3,Mar,Spirit Airlines,Weather,1288,155
+120,202303,8,2023,3,Mar,United Airlines,Weather,2881,357
+121,202304,1,2023,4,Apr,Alaska Airlines,Weather,1828,196
+122,202304,2,2023,4,Apr,American Airlines,Weather,2812,351
+123,202304,3,2023,4,Apr,Delta Air Lines,Weather,3325,357
+124,202304,4,2023,4,Apr,Frontier Airlines,Weather,977,144
+125,202304,5,2023,4,Apr,JetBlue Airways,Weather,1702,196
+126,202304,6,2023,4,Apr,Southwest Airlines,Weather,2827,274
+127,202304,7,2023,4,Apr,Spirit Airlines,Weather,1570,146
+128,202304,8,2023,4,Apr,United Airlines,Weather,2275,303
+129,202305,1,2023,5,May,Alaska Airlines,Weather,1294,178
+130,202305,2,2023,5,May,American Airlines,Weather,3130,344
+131,202305,3,2023,5,May,Delta Air Lines,Weather,2602,316
+132,202305,4,2023,5,May,Frontier Airlines,Weather,1267,149
+133,202305,5,2023,5,May,JetBlue Airways,Weather,1534,190
+134,202305,6,2023,5,May,Southwest Airlines,Weather,3108,317
+135,202305,7,2023,5,May,Spirit Airlines,Weather,1214,138
+136,202305,8,2023,5,May,United Airlines,Weather,2066,307
+137,202306,1,2023,6,Jun,Alaska Airlines,Weather,1576,157
+138,202306,2,2023,6,Jun,American Airlines,Weather,2327,344
+139,202306,3,2023,6,Jun,Delta Air Lines,Weather,2684,334
+140,202306,4,2023,6,Jun,Frontier Airlines,Weather,1140,136
+141,202306,5,2023,6,Jun,JetBlue Airways,Weather,1442,189
+142,202306,6,2023,6,Jun,Southwest Airlines,Weather,2416,299
+143,202306,7,2023,6,Jun,Spirit Airlines,Weather,1363,162
+144,202306,8,2023,6,Jun,United Airlines,Weather,2586,334
+145,202307,1,2023,7,Jul,Alaska Airlines,Weather,1514,147
+146,202307,2,2023,7,Jul,American Airlines,Weather,2724,321
+147,202307,3,2023,7,Jul,Delta Air Lines,Weather,2756,326
+148,202307,4,2023,7,Jul,Frontier Airlines,Weather,1041,146
+149,202307,5,2023,7,Jul,JetBlue Airways,Weather,1914,203
+150,202307,6,2023,7,Jul,Southwest Airlines,Weather,2278,300
+151,202307,7,2023,7,Jul,Spirit Airlines,Weather,972,159
+152,202307,8,2023,7,Jul,United Airlines,Weather,3068,358
+153,202308,1,2023,8,Aug,Alaska Airlines,Weather,1296,185
+154,202308,2,2023,8,Aug,American Airlines,Weather,2952,345
+155,202308,3,2023,8,Aug,Delta Air Lines,Weather,2550,327
+156,202308,4,2023,8,Aug,Frontier Airlines,Weather,1414,154
+157,202308,5,2023,8,Aug,JetBlue Airways,Weather,1474,200
+158,202308,6,2023,8,Aug,Southwest Airlines,Weather,3082,300
+159,202308,7,2023,8,Aug,Spirit Airlines,Weather,1485,171
+160,202308,8,2023,8,Aug,United Airlines,Weather,2331,313
+161,202309,1,2023,9,Sep,Alaska Airlines,Weather,1098,160
+162,202309,2,2023,9,Sep,American Airlines,Weather,3092,346
+163,202309,3,2023,9,Sep,Delta Air Lines,Weather,2912,325
+164,202309,4,2023,9,Sep,Frontier Airlines,Weather,1176,141
+165,202309,5,2023,9,Sep,JetBlue Airways,Weather,1456,196
+166,202309,6,2023,9,Sep,Southwest Airlines,Weather,2568,288
+167,202309,7,2023,9,Sep,Spirit Airlines,Weather,1192,160
+168,202309,8,2023,9,Sep,United Airlines,Weather,3053,325
+169,202310,1,2023,10,Oct,Alaska Airlines,Weather,1620,195
+170,202310,2,2023,10,Oct,American Airlines,Weather,2503,359
+171,202310,3,2023,10,Oct,Delta Air Lines,Weather,3528,366
+172,202310,4,2023,10,Oct,Frontier Airlines,Weather,670,104
+173,202310,5,2023,10,Oct,JetBlue Airways,Weather,2014,211
+174,202310,6,2023,10,Oct,Southwest Airlines,Weather,2355,290
+175,202310,7,2023,10,Oct,Spirit Airlines,Weather,897,162
+176,202310,8,2023,10,Oct,United Airlines,Weather,2643,297
+177,202311,1,2023,11,Nov,Alaska Airlines,Weather,1940,176
+178,202311,2,2023,11,Nov,American Airlines,Weather,3200,371
+179,202311,3,2023,11,Nov,Delta Air Lines,Weather,2658,323
+180,202311,4,2023,11,Nov,Frontier Airlines,Weather,1144,144
+181,202311,5,2023,11,Nov,JetBlue Airways,Weather,2000,185
+182,202311,6,2023,11,Nov,Southwest Airlines,Weather,1726,280
+183,202311,7,2023,11,Nov,Spirit Airlines,Weather,1161,152
+184,202311,8,2023,11,Nov,United Airlines,Weather,2778,318
+185,202312,1,2023,12,Dec,Alaska Airlines,Weather,1622,170
+186,202312,2,2023,12,Dec,American Airlines,Weather,3686,358
+187,202312,3,2023,12,Dec,Delta Air Lines,Weather,3389,374
+188,202312,4,2023,12,Dec,Frontier Airlines,Weather,1250,152
+189,202312,5,2023,12,Dec,JetBlue Airways,Weather,1732,198
+190,202312,6,2023,12,Dec,Southwest Airlines,Weather,1848,258
+191,202312,7,2023,12,Dec,Spirit Airlines,Weather,1717,190
+192,202312,8,2023,12,Dec,United Airlines,Weather,2704,322
+193,202301,1,2023,1,Jan,Alaska Airlines,National Air System,1110,191
+194,202301,2,2023,1,Jan,American Airlines,National Air System,2215,363
+195,202301,3,2023,1,Jan,Delta Air Lines,National Air System,2250,339
+196,202301,4,2023,1,Jan,Frontier Airlines,National Air System,920,126
+197,202301,5,2023,1,Jan,JetBlue Airways,National Air System,1385,187
+198,202301,6,2023,1,Jan,Southwest Airlines,National Air System,2223,322
+199,202301,7,2023,1,Jan,Spirit Airlines,National Air System,1192,165
+200,202301,8,2023,1,Jan,United Airlines,National Air System,2320,310
+201,202302,1,2023,2,Feb,Alaska Airlines,National Air System,570,136
+202,202302,2,2023,2,Feb,American Airlines,National Air System,1986,299
+203,202302,3,2023,2,Feb,Delta Air Lines,National Air System,2128,321
+204,202302,4,2023,2,Feb,Frontier Airlines,National Air System,790,126
+205,202302,5,2023,2,Feb,JetBlue Airways,National Air System,1001,170
+206,202302,6,2023,2,Feb,Southwest Airlines,National Air System,1849,275
+207,202302,7,2023,2,Feb,Spirit Airlines,National Air System,1198,152
+208,202302,8,2023,2,Feb,United Airlines,National Air System,1599,293
+209,202303,1,2023,3,Mar,Alaska Airlines,National Air System,1045,172
+210,202303,2,2023,3,Mar,American Airlines,National Air System,2510,349
+211,202303,3,2023,3,Mar,Delta Air Lines,National Air System,1996,333
+212,202303,4,2023,3,Mar,Frontier Airlines,National Air System,1439,170
+213,202303,5,2023,3,Mar,JetBlue Airways,National Air System,1320,237
+214,202303,6,2023,3,Mar,Southwest Airlines,National Air System,1974,307
+215,202303,7,2023,3,Mar,Spirit Airlines,National Air System,916,155
+216,202303,8,2023,3,Mar,United Airlines,National Air System,2327,357
+217,202304,1,2023,4,Apr,Alaska Airlines,National Air System,1437,196
+218,202304,2,2023,4,Apr,American Airlines,National Air System,2468,351
+219,202304,3,2023,4,Apr,Delta Air Lines,National Air System,2358,357
+220,202304,4,2023,4,Apr,Frontier Airlines,National Air System,956,144
+221,202304,5,2023,4,Apr,JetBlue Airways,National Air System,1381,196
+222,202304,6,2023,4,Apr,Southwest Airlines,National Air System,2238,274
+223,202304,7,2023,4,Apr,Spirit Airlines,National Air System,1088,146
+224,202304,8,2023,4,Apr,United Airlines,National Air System,2043,303
+225,202305,1,2023,5,May,Alaska Airlines,National Air System,1258,178
+226,202305,2,2023,5,May,American Airlines,National Air System,2591,344
+227,202305,3,2023,5,May,Delta Air Lines,National Air System,2364,316
+228,202305,4,2023,5,May,Frontier Airlines,National Air System,983,149
+229,202305,5,2023,5,May,JetBlue Airways,National Air System,1328,190
+230,202305,6,2023,5,May,Southwest Airlines,National Air System,2292,317
+231,202305,7,2023,5,May,Spirit Airlines,National Air System,796,138
+232,202305,8,2023,5,May,United Airlines,National Air System,2511,307
+233,202306,1,2023,6,Jun,Alaska Airlines,National Air System,1221,157
+234,202306,2,2023,6,Jun,American Airlines,National Air System,2203,344
+235,202306,3,2023,6,Jun,Delta Air Lines,National Air System,2195,334
+236,202306,4,2023,6,Jun,Frontier Airlines,National Air System,896,136
+237,202306,5,2023,6,Jun,JetBlue Airways,National Air System,1604,189
+238,202306,6,2023,6,Jun,Southwest Airlines,National Air System,2241,299
+239,202306,7,2023,6,Jun,Spirit Airlines,National Air System,1012,162
+240,202306,8,2023,6,Jun,United Airlines,National Air System,2056,334
+241,202307,1,2023,7,Jul,Alaska Airlines,National Air System,922,147
+242,202307,2,2023,7,Jul,American Airlines,National Air System,1880,321
+243,202307,3,2023,7,Jul,Delta Air Lines,National Air System,2009,326
+244,202307,4,2023,7,Jul,Frontier Airlines,National Air System,963,146
+245,202307,5,2023,7,Jul,JetBlue Airways,National Air System,1272,203
+246,202307,6,2023,7,Jul,Southwest Airlines,National Air System,2333,300
+247,202307,7,2023,7,Jul,Spirit Airlines,National Air System,888,159
+248,202307,8,2023,7,Jul,United Airlines,National Air System,1969,358
+249,202308,1,2023,8,Aug,Alaska Airlines,National Air System,1488,185
+250,202308,2,2023,8,Aug,American Airlines,National Air System,2004,345
+251,202308,3,2023,8,Aug,Delta Air Lines,National Air System,2270,327
+252,202308,4,2023,8,Aug,Frontier Airlines,National Air System,907,154
+253,202308,5,2023,8,Aug,JetBlue Airways,National Air System,2037,200
+254,202308,6,2023,8,Aug,Southwest Airlines,National Air System,2131,300
+255,202308,7,2023,8,Aug,Spirit Airlines,National Air System,1067,171
+256,202308,8,2023,8,Aug,United Airlines,National Air System,2098,313
+257,202309,1,2023,9,Sep,Alaska Airlines,National Air System,925,160
+258,202309,2,2023,9,Sep,American Airlines,National Air System,2363,346
+259,202309,3,2023,9,Sep,Delta Air Lines,National Air System,2184,325
+260,202309,4,2023,9,Sep,Frontier Airlines,National Air System,899,141
+261,202309,5,2023,9,Sep,JetBlue Airways,National Air System,1504,196
+262,202309,6,2023,9,Sep,Southwest Airlines,National Air System,1702,288
+263,202309,7,2023,9,Sep,Spirit Airlines,National Air System,1112,160
+264,202309,8,2023,9,Sep,United Airlines,National Air System,2769,325
+265,202310,1,2023,10,Oct,Alaska Airlines,National Air System,1164,195
+266,202310,2,2023,10,Oct,American Airlines,National Air System,2737,359
+267,202310,3,2023,10,Oct,Delta Air Lines,National Air System,2209,366
+268,202310,4,2023,10,Oct,Frontier Airlines,National Air System,578,104
+269,202310,5,2023,10,Oct,JetBlue Airways,National Air System,1463,211
+270,202310,6,2023,10,Oct,Southwest Airlines,National Air System,1957,290
+271,202310,7,2023,10,Oct,Spirit Airlines,National Air System,1275,162
+272,202310,8,2023,10,Oct,United Airlines,National Air System,2196,297
+273,202311,1,2023,11,Nov,Alaska Airlines,National Air System,1246,176
+274,202311,2,2023,11,Nov,American Airlines,National Air System,2786,371
+275,202311,3,2023,11,Nov,Delta Air Lines,National Air System,2496,323
+276,202311,4,2023,11,Nov,Frontier Airlines,National Air System,1058,144
+277,202311,5,2023,11,Nov,JetBlue Airways,National Air System,964,185
+278,202311,6,2023,11,Nov,Southwest Airlines,National Air System,2426,280
+279,202311,7,2023,11,Nov,Spirit Airlines,National Air System,1069,152
+280,202311,8,2023,11,Nov,United Airlines,National Air System,1575,318
+281,202312,1,2023,12,Dec,Alaska Airlines,National Air System,903,170
+282,202312,2,2023,12,Dec,American Airlines,National Air System,2227,358
+283,202312,3,2023,12,Dec,Delta Air Lines,National Air System,2592,374
+284,202312,4,2023,12,Dec,Frontier Airlines,National Air System,1282,152
+285,202312,5,2023,12,Dec,JetBlue Airways,National Air System,1473,198
+286,202312,6,2023,12,Dec,Southwest Airlines,National Air System,1754,258
+287,202312,7,2023,12,Dec,Spirit Airlines,National Air System,1168,190
+288,202312,8,2023,12,Dec,United Airlines,National Air System,2504,322
+289,202301,1,2023,1,Jan,Alaska Airlines,Security,225,191
+290,202301,2,2023,1,Jan,American Airlines,Security,104,363
+291,202301,3,2023,1,Jan,Delta Air Lines,Security,452,339
+292,202301,4,2023,1,Jan,Frontier Airlines,Security,43,126
+293,202301,5,2023,1,Jan,JetBlue Airways,Security,98,187
+294,202301,6,2023,1,Jan,Southwest Airlines,Security,368,322
+295,202301,7,2023,1,Jan,Spirit Airlines,Security,222,165
+296,202301,8,2023,1,Jan,United Airlines,Security,211,310
+297,202302,1,2023,2,Feb,Alaska Airlines,Security,187,136
+298,202302,2,2023,2,Feb,American Airlines,Security,328,299
+299,202302,3,2023,2,Feb,Delta Air Lines,Security,141,321
+300,202302,4,2023,2,Feb,Frontier Airlines,Security,119,126
+301,202302,5,2023,2,Feb,JetBlue Airways,Security,132,170
+302,202302,6,2023,2,Feb,Southwest Airlines,Security,156,275
+303,202302,7,2023,2,Feb,Spirit Airlines,Security,225,152
+304,202302,8,2023,2,Feb,United Airlines,Security,245,293
+305,202303,1,2023,3,Mar,Alaska Airlines,Security,116,172
+306,202303,2,2023,3,Mar,American Airlines,Security,381,349
+307,202303,3,2023,3,Mar,Delta Air Lines,Security,190,333
+308,202303,4,2023,3,Mar,Frontier Airlines,Security,136,170
+309,202303,5,2023,3,Mar,JetBlue Airways,Security,210,237
+310,202303,6,2023,3,Mar,Southwest Airlines,Security,104,307
+311,202303,7,2023,3,Mar,Spirit Airlines,Security,260,155
+312,202303,8,2023,3,Mar,United Airlines,Security,414,357
+313,202304,1,2023,4,Apr,Alaska Airlines,Security,251,196
+314,202304,2,2023,4,Apr,American Airlines,Security,251,351
+315,202304,3,2023,4,Apr,Delta Air Lines,Security,169,357
+316,202304,4,2023,4,Apr,Frontier Airlines,Security,158,144
+317,202304,5,2023,4,Apr,JetBlue Airways,Security,75,196
+318,202304,6,2023,4,Apr,Southwest Airlines,Security,61,274
+319,202304,7,2023,4,Apr,Spirit Airlines,Security,48,146
+320,202304,8,2023,4,Apr,United Airlines,Security,180,303
+321,202305,1,2023,5,May,Alaska Airlines,Security,318,178
+322,202305,2,2023,5,May,American Airlines,Security,197,344
+323,202305,3,2023,5,May,Delta Air Lines,Security,312,316
+324,202305,4,2023,5,May,Frontier Airlines,Security,94,149
+325,202305,5,2023,5,May,JetBlue Airways,Security,90,190
+326,202305,6,2023,5,May,Southwest Airlines,Security,229,317
+327,202305,7,2023,5,May,Spirit Airlines,Security,145,138
+328,202305,8,2023,5,May,United Airlines,Security,110,307
+329,202306,1,2023,6,Jun,Alaska Airlines,Security,47,157
+330,202306,2,2023,6,Jun,American Airlines,Security,83,344
+331,202306,3,2023,6,Jun,Delta Air Lines,Security,114,334
+332,202306,4,2023,6,Jun,Frontier Airlines,Security,76,136
+333,202306,5,2023,6,Jun,JetBlue Airways,Security,109,189
+334,202306,6,2023,6,Jun,Southwest Airlines,Security,138,299
+335,202306,7,2023,6,Jun,Spirit Airlines,Security,59,162
+336,202306,8,2023,6,Jun,United Airlines,Security,216,334
+337,202307,1,2023,7,Jul,Alaska Airlines,Security,26,147
+338,202307,2,2023,7,Jul,American Airlines,Security,213,321
+339,202307,3,2023,7,Jul,Delta Air Lines,Security,204,326
+340,202307,4,2023,7,Jul,Frontier Airlines,Security,114,146
+341,202307,5,2023,7,Jul,JetBlue Airways,Security,180,203
+342,202307,6,2023,7,Jul,Southwest Airlines,Security,194,300
+343,202307,7,2023,7,Jul,Spirit Airlines,Security,228,159
+344,202307,8,2023,7,Jul,United Airlines,Security,205,358
+345,202308,1,2023,8,Aug,Alaska Airlines,Security,138,185
+346,202308,2,2023,8,Aug,American Airlines,Security,301,345
+347,202308,3,2023,8,Aug,Delta Air Lines,Security,342,327
+348,202308,4,2023,8,Aug,Frontier Airlines,Security,56,154
+349,202308,5,2023,8,Aug,JetBlue Airways,Security,120,200
+350,202308,6,2023,8,Aug,Southwest Airlines,Security,159,300
+351,202308,7,2023,8,Aug,Spirit Airlines,Security,16,171
+352,202308,8,2023,8,Aug,United Airlines,Security,193,313
+353,202309,1,2023,9,Sep,Alaska Airlines,Security,233,160
+354,202309,2,2023,9,Sep,American Airlines,Security,250,346
+355,202309,3,2023,9,Sep,Delta Air Lines,Security,310,325
+356,202309,4,2023,9,Sep,Frontier Airlines,Security,45,141
+357,202309,5,2023,9,Sep,JetBlue Airways,Security,169,196
+358,202309,6,2023,9,Sep,Southwest Airlines,Security,185,288
+359,202309,7,2023,9,Sep,Spirit Airlines,Security,251,160
+360,202309,8,2023,9,Sep,United Airlines,Security,242,325
+361,202310,1,2023,10,Oct,Alaska Airlines,Security,85,195
+362,202310,2,2023,10,Oct,American Airlines,Security,254,359
+363,202310,3,2023,10,Oct,Delta Air Lines,Security,415,366
+364,202310,4,2023,10,Oct,Frontier Airlines,Security,35,104
+365,202310,5,2023,10,Oct,JetBlue Airways,Security,119,211
+366,202310,6,2023,10,Oct,Southwest Airlines,Security,202,290
+367,202310,7,2023,10,Oct,Spirit Airlines,Security,81,162
+368,202310,8,2023,10,Oct,United Airlines,Security,391,297
+369,202311,1,2023,11,Nov,Alaska Airlines,Security,144,176
+370,202311,2,2023,11,Nov,American Airlines,Security,159,371
+371,202311,3,2023,11,Nov,Delta Air Lines,Security,74,323
+372,202311,4,2023,11,Nov,Frontier Airlines,Security,49,144
+373,202311,5,2023,11,Nov,JetBlue Airways,Security,134,185
+374,202311,6,2023,11,Nov,Southwest Airlines,Security,182,280
+375,202311,7,2023,11,Nov,Spirit Airlines,Security,0,152
+376,202311,8,2023,11,Nov,United Airlines,Security,448,318
+377,202312,1,2023,12,Dec,Alaska Airlines,Security,136,170
+378,202312,2,2023,12,Dec,American Airlines,Security,290,358
+379,202312,3,2023,12,Dec,Delta Air Lines,Security,171,374
+380,202312,4,2023,12,Dec,Frontier Airlines,Security,52,152
+381,202312,5,2023,12,Dec,JetBlue Airways,Security,107,198
+382,202312,6,2023,12,Dec,Southwest Airlines,Security,66,258
+383,202312,7,2023,12,Dec,Spirit Airlines,Security,53,190
+384,202312,8,2023,12,Dec,United Airlines,Security,97,322
+385,202301,1,2023,1,Jan,Alaska Airlines,Late Aircraft,1236,191
+386,202301,2,2023,1,Jan,American Airlines,Late Aircraft,2003,363
+387,202301,3,2023,1,Jan,Delta Air Lines,Late Aircraft,1880,339
+388,202301,4,2023,1,Jan,Frontier Airlines,Late Aircraft,733,126
+389,202301,5,2023,1,Jan,JetBlue Airways,Late Aircraft,1402,187
+390,202301,6,2023,1,Jan,Southwest Airlines,Late Aircraft,1356,322
+391,202301,7,2023,1,Jan,Spirit Airlines,Late Aircraft,933,165
+392,202301,8,2023,1,Jan,United Airlines,Late Aircraft,1952,310
+393,202302,1,2023,2,Feb,Alaska Airlines,Late Aircraft,839,136
+394,202302,2,2023,2,Feb,American Airlines,Late Aircraft,2017,299
+395,202302,3,2023,2,Feb,Delta Air Lines,Late Aircraft,1788,321
+396,202302,4,2023,2,Feb,Frontier Airlines,Late Aircraft,796,126
+397,202302,5,2023,2,Feb,JetBlue Airways,Late Aircraft,974,170
+398,202302,6,2023,2,Feb,Southwest Airlines,Late Aircraft,1889,275
+399,202302,7,2023,2,Feb,Spirit Airlines,Late Aircraft,754,152
+400,202302,8,2023,2,Feb,United Airlines,Late Aircraft,1550,293
+401,202303,1,2023,3,Mar,Alaska Airlines,Late Aircraft,1419,172
+402,202303,2,2023,3,Mar,American Airlines,Late Aircraft,1818,349
+403,202303,3,2023,3,Mar,Delta Air Lines,Late Aircraft,1838,333
+404,202303,4,2023,3,Mar,Frontier Airlines,Late Aircraft,1046,170
+405,202303,5,2023,3,Mar,JetBlue Airways,Late Aircraft,1493,237
+406,202303,6,2023,3,Mar,Southwest Airlines,Late Aircraft,1947,307
+407,202303,7,2023,3,Mar,Spirit Airlines,Late Aircraft,1239,155
+408,202303,8,2023,3,Mar,United Airlines,Late Aircraft,2952,357
+409,202304,1,2023,4,Apr,Alaska Airlines,Late Aircraft,957,196
+410,202304,2,2023,4,Apr,American Airlines,Late Aircraft,2267,351
+411,202304,3,2023,4,Apr,Delta Air Lines,Late Aircraft,1779,357
+412,202304,4,2023,4,Apr,Frontier Airlines,Late Aircraft,1180,144
+413,202304,5,2023,4,Apr,JetBlue Airways,Late Aircraft,1202,196
+414,202304,6,2023,4,Apr,Southwest Airlines,Late Aircraft,1590,274
+415,202304,7,2023,4,Apr,Spirit Airlines,Late Aircraft,867,146
+416,202304,8,2023,4,Apr,United Airlines,Late Aircraft,1820,303
+417,202305,1,2023,5,May,Alaska Airlines,Late Aircraft,1296,178
+418,202305,2,2023,5,May,American Airlines,Late Aircraft,2391,344
+419,202305,3,2023,5,May,Delta Air Lines,Late Aircraft,2350,316
+420,202305,4,2023,5,May,Frontier Airlines,Late Aircraft,953,149
+421,202305,5,2023,5,May,JetBlue Airways,Late Aircraft,974,190
+422,202305,6,2023,5,May,Southwest Airlines,Late Aircraft,2055,317
+423,202305,7,2023,5,May,Spirit Airlines,Late Aircraft,802,138
+424,202305,8,2023,5,May,United Airlines,Late Aircraft,2137,307
+425,202306,1,2023,6,Jun,Alaska Airlines,Late Aircraft,1114,157
+426,202306,2,2023,6,Jun,American Airlines,Late Aircraft,1811,344
+427,202306,3,2023,6,Jun,Delta Air Lines,Late Aircraft,2775,334
+428,202306,4,2023,6,Jun,Frontier Airlines,Late Aircraft,658,136
+429,202306,5,2023,6,Jun,JetBlue Airways,Late Aircraft,1003,189
+430,202306,6,2023,6,Jun,Southwest Airlines,Late Aircraft,1757,299
+431,202306,7,2023,6,Jun,Spirit Airlines,Late Aircraft,938,162
+432,202306,8,2023,6,Jun,United Airlines,Late Aircraft,1898,334
+433,202307,1,2023,7,Jul,Alaska Airlines,Late Aircraft,678,147
+434,202307,2,2023,7,Jul,American Airlines,Late Aircraft,1835,321
+435,202307,3,2023,7,Jul,Delta Air Lines,Late Aircraft,2280,326
+436,202307,4,2023,7,Jul,Frontier Airlines,Late Aircraft,816,146
+437,202307,5,2023,7,Jul,JetBlue Airways,Late Aircraft,1174,203
+438,202307,6,2023,7,Jul,Southwest Airlines,Late Aircraft,1792,300
+439,202307,7,2023,7,Jul,Spirit Airlines,Late Aircraft,973,159
+440,202307,8,2023,7,Jul,United Airlines,Late Aircraft,2428,358
+441,202308,1,2023,8,Aug,Alaska Airlines,Late Aircraft,1044,185
+442,202308,2,2023,8,Aug,American Airlines,Late Aircraft,1936,345
+443,202308,3,2023,8,Aug,Delta Air Lines,Late Aircraft,1888,327
+444,202308,4,2023,8,Aug,Frontier Airlines,Late Aircraft,791,154
+445,202308,5,2023,8,Aug,JetBlue Airways,Late Aircraft,950,200
+446,202308,6,2023,8,Aug,Southwest Airlines,Late Aircraft,2210,300
+447,202308,7,2023,8,Aug,Spirit Airlines,Late Aircraft,934,171
+448,202308,8,2023,8,Aug,United Airlines,Late Aircraft,1673,313
+449,202309,1,2023,9,Sep,Alaska Airlines,Late Aircraft,1106,160
+450,202309,2,2023,9,Sep,American Airlines,Late Aircraft,2096,346
+451,202309,3,2023,9,Sep,Delta Air Lines,Late Aircraft,1737,325
+452,202309,4,2023,9,Sep,Frontier Airlines,Late Aircraft,953,141
+453,202309,5,2023,9,Sep,JetBlue Airways,Late Aircraft,1237,196
+454,202309,6,2023,9,Sep,Southwest Airlines,Late Aircraft,1585,288
+455,202309,7,2023,9,Sep,Spirit Airlines,Late Aircraft,1294,160
+456,202309,8,2023,9,Sep,United Airlines,Late Aircraft,1830,325
+457,202310,1,2023,10,Oct,Alaska Airlines,Late Aircraft,1138,195
+458,202310,2,2023,10,Oct,American Airlines,Late Aircraft,2208,359
+459,202310,3,2023,10,Oct,Delta Air Lines,Late Aircraft,2406,366
+460,202310,4,2023,10,Oct,Frontier Airlines,Late Aircraft,759,104
+461,202310,5,2023,10,Oct,JetBlue Airways,Late Aircraft,1139,211
+462,202310,6,2023,10,Oct,Southwest Airlines,Late Aircraft,1768,290
+463,202310,7,2023,10,Oct,Spirit Airlines,Late Aircraft,934,162
+464,202310,8,2023,10,Oct,United Airlines,Late Aircraft,1852,297
+465,202311,1,2023,11,Nov,Alaska Airlines,Late Aircraft,1109,176
+466,202311,2,2023,11,Nov,American Airlines,Late Aircraft,2378,371
+467,202311,3,2023,11,Nov,Delta Air Lines,Late Aircraft,1896,323
+468,202311,4,2023,11,Nov,Frontier Airlines,Late Aircraft,946,144
+469,202311,5,2023,11,Nov,JetBlue Airways,Late Aircraft,901,185
+470,202311,6,2023,11,Nov,Southwest Airlines,Late Aircraft,1875,280
+471,202311,7,2023,11,Nov,Spirit Airlines,Late Aircraft,861,152
+472,202311,8,2023,11,Nov,United Airlines,Late Aircraft,2292,318
+473,202312,1,2023,12,Dec,Alaska Airlines,Late Aircraft,1023,170
+474,202312,2,2023,12,Dec,American Airlines,Late Aircraft,2306,358
+475,202312,3,2023,12,Dec,Delta Air Lines,Late Aircraft,3012,374
+476,202312,4,2023,12,Dec,Frontier Airlines,Late Aircraft,842,152
+477,202312,5,2023,12,Dec,JetBlue Airways,Late Aircraft,1065,198
+478,202312,6,2023,12,Dec,Southwest Airlines,Late Aircraft,1620,258
+479,202312,7,2023,12,Dec,Spirit Airlines,Late Aircraft,1248,190
+480,202312,8,2023,12,Dec,United Airlines,Late Aircraft,2066,322

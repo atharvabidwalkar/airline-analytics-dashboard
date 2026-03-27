@@ -1,0 +1,36 @@
+fact_tod_key,dep_period,period_order,day_name,day_of_week,total_flights,on_time,delayed,on_time_pct,delay_rate_pct,avg_dep_delay
+9,Early Morning,1,Monday,0,6186,5419,767,87.6,12.4,23.44
+23,Morning,2,Monday,0,4644,4074,570,87.73,12.27,24.04
+2,Afternoon,3,Monday,0,7897,6959,938,88.12,11.88,23.91
+16,Evening,4,Monday,0,6053,5334,719,88.12,11.88,23.14
+30,Night,5,Monday,0,3102,2744,358,88.46,11.54,22.49
+13,Early Morning,1,Tuesday,1,6206,5461,745,88.0,12.0,23.62
+27,Morning,2,Tuesday,1,4492,3938,554,87.67,12.33,23.65
+6,Afternoon,3,Tuesday,1,7822,6891,931,88.1,11.9,23.95
+20,Evening,4,Tuesday,1,6136,5442,694,88.69,11.31,23.03
+34,Night,5,Tuesday,1,3051,2674,377,87.64,12.36,23.65
+14,Early Morning,1,Wednesday,2,6236,5464,772,87.62,12.38,23.25
+28,Morning,2,Wednesday,2,4656,4086,570,87.76,12.24,23.65
+7,Afternoon,3,Wednesday,2,7578,6708,870,88.52,11.48,22.7
+21,Evening,4,Wednesday,2,6178,5473,705,88.59,11.41,23.06
+35,Night,5,Wednesday,2,3027,2640,387,87.22,12.78,24.19
+12,Early Morning,1,Thursday,3,6232,5503,729,88.3,11.7,24.14
+26,Morning,2,Thursday,3,4663,4130,533,88.57,11.43,23.42
+5,Afternoon,3,Thursday,3,7625,6691,934,87.75,12.25,24.21
+19,Evening,4,Thursday,3,6283,5513,770,87.74,12.26,23.36
+33,Night,5,Thursday,3,3140,2751,389,87.61,12.39,23.68
+8,Early Morning,1,Friday,4,6178,5428,750,87.86,12.14,23.28
+22,Morning,2,Friday,4,4768,4227,541,88.65,11.35,24.65
+1,Afternoon,3,Friday,4,7798,6856,942,87.92,12.08,23.95
+15,Evening,4,Friday,4,6236,5485,751,87.96,12.04,23.37
+29,Night,5,Friday,4,3112,2717,395,87.31,12.69,23.75
+10,Early Morning,1,Saturday,5,6260,5484,776,87.6,12.4,23.87
+24,Morning,2,Saturday,5,4655,4127,528,88.66,11.34,23.83
+3,Afternoon,3,Saturday,5,7823,6890,933,88.07,11.93,23.32
+17,Evening,4,Saturday,5,6239,5487,752,87.95,12.05,24.92
+31,Night,5,Saturday,5,3102,2723,379,87.78,12.22,25.24
+11,Early Morning,1,Sunday,6,6262,5498,764,87.8,12.2,24.29
+25,Morning,2,Sunday,6,4707,4127,580,87.68,12.32,24.92
+4,Afternoon,3,Sunday,6,7895,6891,1004,87.28,12.72,24.08
+18,Evening,4,Sunday,6,6452,5683,769,88.08,11.92,23.83
+32,Night,5,Sunday,6,3253,2862,391,87.98,12.02,23.98

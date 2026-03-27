@@ -1,0 +1,9 @@
+kpi_key,metric,value,formatted,category
+1,Total Flights,200000.0,"200,000",Volume
+2,On-Time Rate (%),86.19,86.2%,Performance
+3,Cancellation Rate (%),2.03,2.0%,Performance
+4,Avg Departure Delay (min),37.8,37.8 min,Performance
+5,Total Distance Flown (miles),294816934.0,"294,816,934",Volume
+6,Total Delay Minutes (all causes),913185.0,"913,185",Delay
+7,Total Airlines,8.0,8,Reference
+8,Total Airports,15.0,15,Reference
