@@ -10,7 +10,7 @@
 
 **An interactive Power BI dashboard analysing US airline on-time performance across 200,000 flights — built on a star schema data model with all transformations handled natively in Power Query.**
 
-[View Live Dashboard](#) • [Data Model](#-data-model) • [Dashboard Pages](#-dashboard-pages) • [DAX Measures](#-dax-measures)
+ [Data Model](#-data-model) • [Dashboard Pages](#-dashboard-pages) • [DAX Measures](#-dax-measures)
 
 </div>
 
